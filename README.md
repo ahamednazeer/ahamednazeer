@@ -1,6 +1,3 @@
-<!-- README.md for Syed Ahamed Nazeer -->
-<!-- Drop this file into your GitHub profile repo (username.github.io or username/username) -->
-
 <h1 align="center">Hey 👋 I'm Syed Ahamed Nazeer</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud | Kubernetes | Automation Enthusiast</h3>
 
