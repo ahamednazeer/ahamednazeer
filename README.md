@@ -93,11 +93,3 @@ I design infrastructure that minimizes fire drills, automate repeatable work, an
 
 - LinkedIn: [syed-ahamed-n](www.linkedin.com/in/syed-ahamed-n-a19238172)  
 - Email: [ahamednazeer202@gmail.com](mailto:ahamednazeer202@gmail.com)
-
----
-
-## ⭐ DevOps Philosophy
-
-> **Automate everything. Monitor everything. Make it reliable. Make it secure.**  
-> Systems should be observable, recoverable, and documented — so teams can move fast without chaos.
-
